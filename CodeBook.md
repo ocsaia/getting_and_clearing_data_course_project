@@ -1,5 +1,19 @@
 #Code book
 
+##Identifiers
+
+ * subject - The id of the test subject
+ * activity - The type of activity at measurement
+
+### Activities
+
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
+
 ##Measurements
 
 ### Description
